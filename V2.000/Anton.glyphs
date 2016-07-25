@@ -15978,7 +15978,7 @@ components = (
 name = I;
 },
 {
-name = dotbelowcomb.case;
+name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 232, 0}";
 }
 );
@@ -18960,7 +18960,7 @@ components = (
 name = O;
 },
 {
-name = dotbelowcomb.case;
+name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 498, 0}";
 }
 );
@@ -23134,7 +23134,7 @@ components = (
 name = U;
 },
 {
-name = dotbelowcomb.case;
+name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 485, 0}";
 }
 );
@@ -47450,11 +47450,11 @@ transform = "{1, 0, 0, 1, 994, 0}";
 {
 alignment = 1;
 name = brevecomb.case;
-transform = "{1, 0, 0, 1, 1594, 0}";
+transform = "{1, 0, 0, 1, 994, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2194;
+width = 1594;
 }
 );
 unicode = 1EB6;
@@ -47791,11 +47791,11 @@ transform = "{1, 0, 0, 1, 994, 0}";
 {
 alignment = 1;
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 1594, 0}";
+transform = "{1, 0, 0, 1, 994, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2194;
+width = 1594;
 }
 );
 unicode = 1EAC;
@@ -48187,11 +48187,11 @@ transform = "{1, 0, 0, 1, 843, 0}";
 {
 alignment = 1;
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 1443, 0}";
+transform = "{1, 0, 0, 1, 843, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2043;
+width = 1443;
 }
 );
 unicode = 1EC6;
@@ -48579,11 +48579,11 @@ transform = "{1, 0, 0, 1, 996, 0}";
 {
 alignment = 1;
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 1596, 0}";
+transform = "{1, 0, 0, 1, 996, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2196;
+width = 1596;
 }
 );
 unicode = 1ED8;
@@ -49144,7 +49144,7 @@ transform = "{1, 0, 0, 1, 1596, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2196;
+width = 1596;
 }
 );
 unicode = 1EE2;
@@ -49570,7 +49570,7 @@ transform = "{1, 0, 0, 1, 1570, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2170;
+width = 1570;
 }
 );
 unicode = 1EF0;
@@ -49787,7 +49787,7 @@ transform = "{1, 0, 0, 1, 914, 0}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1514;
+width = 914;
 }
 );
 unicode = 1EF4;
