@@ -30221,19 +30221,6 @@ unicode = 1ED0;
 glyphname = Ocircumflexdotbelow;
 layers = (
 {
-background = {
-components = (
-{
-name = O;
-},
-{
-name = dotbelowcomb.case;
-},
-{
-name = circumflexcomb.case;
-}
-);
-};
 components = (
 {
 name = O;
