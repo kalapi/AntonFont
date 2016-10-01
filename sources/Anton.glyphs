@@ -1,5 +1,5 @@
 {
-.appVersion = "919";
+.appVersion = "924";
 classes = (
 {
 automatic = 1;
@@ -11,7 +11,8 @@ copyright = "Copyright 2011 The Anton Project Authors";
 customParameters = (
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = license;
@@ -24481,15 +24482,6 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
-glyphname = .null;
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-}
-);
-},
-{
 glyphname = cedi;
 layers = (
 {
@@ -36409,6 +36401,7 @@ layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesNiceNames = 1;
