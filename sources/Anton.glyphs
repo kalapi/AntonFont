@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "930";
 classes = (
 {
 automatic = 1;
@@ -116,6 +116,14 @@ name = typoLineGap;
 value = 0;
 },
 {
+name = winAscent;
+value = 2408;
+},
+{
+name = winDescent;
+value = 674;
+},
+{
 name = hheaAscender;
 value = 2331;
 },
@@ -124,16 +132,16 @@ name = hheaDescender;
 value = -674;
 },
 {
+name = underlinePosition;
+value = -307;
+},
+{
+name = underlineThickness;
+value = 102;
+},
+{
 name = hheaLineGap;
 value = 0;
-},
-{
-name = winAscent;
-value = 2875;
-},
-{
-name = winDescent;
-value = 667;
 }
 );
 descender = -186;
@@ -36411,38 +36419,6 @@ customParameters = (
 {
 name = "Scale to UPM";
 value = "1000";
-},
-{
-name = typoAscender;
-value = 2331;
-},
-{
-name = typoDescender;
-value = -674;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 2331;
-},
-{
-name = hheaDescender;
-value = -674;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2875;
-},
-{
-name = winDescent;
-value = 667;
 }
 );
 interpolationWeight = 0;
